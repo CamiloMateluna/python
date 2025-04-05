@@ -63,5 +63,5 @@ print(conteo_col)
 #Ver cuantos faltantes hay por columna
 num_faltantes = df.isnull().sum()
 
-#Inspecciona si alguna columna (ej. Cabin, Age) tiene muchos valores nulos.
+#Inspecciona si alguna columna (ej. Cabin, Age) tiene muchos valores nulos
 
