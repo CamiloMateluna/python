@@ -65,3 +65,5 @@ num_faltantes = df.isnull().sum()
 
 #Inspecciona si alguna columna (ej. Cabin, Age) tiene muchos valores nulos
 
+#PROBANDO
+
